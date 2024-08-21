@@ -1,0 +1,22 @@
+{
+  "name": "pulse",
+  "version": "1.0.0",
+  "description": "Pulse Web Page",
+  "main": "index.html",
+  "scripts": {
+    "test": "testpulse"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikita1grynenko/pulse-web-page.git"
+  },
+  "keywords": [
+    "pulse"
+  ],
+  "author": "Nikita Grynenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikita1grynenko/pulse-web-page/issues"
+  },
+  "homepage": "https://github.com/nikita1grynenko/pulse-web-page#readme"
+}

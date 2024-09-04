@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/nikita1grynenko/pulse-web-page/issues"
   },
-  "homepage": "https://github.com/nikita1grynenko/pulse-web-page#readme"
+  "homepage": "https://github.com/nikita1grynenko/pulse-web-page#readme",
+  "dependencies": {
+    "@types/jquery": "^3.5.30"
+  }
 }
